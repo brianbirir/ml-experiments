@@ -10,6 +10,9 @@ numpy = "*"
 beautifulsoup4 = "*"
 lxml = "*"
 html5lib = "*"
+seaborn = "*"
+matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
