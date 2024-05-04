@@ -9,3 +9,7 @@ Tutorial source:
 
 1. Web scraping
 2. Prediction
+
+## Data sources
+
+- [FBRef](https://fbref.com/en/) - football/soccer data for the web scraping task
