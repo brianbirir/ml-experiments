@@ -13,6 +13,7 @@ html5lib = "*"
 seaborn = "*"
 matplotlib = "*"
 scikit-learn = "*"
+pyarrow = "*"
 
 [dev-packages]
 
